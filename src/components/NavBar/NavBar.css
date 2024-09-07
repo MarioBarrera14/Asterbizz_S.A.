@@ -1,0 +1,7 @@
+.menu{
+    position: absolute;
+    width: 200px;
+    min-height: 100%;
+    background-color: black;
+}
+
