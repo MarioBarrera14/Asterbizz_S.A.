@@ -3,7 +3,6 @@
 ## Screenshots:
 ### Web:
 ![Desktop 1](/screenshots/desktop1.png)
-![Deskt 1](/screenshots/Asterbizz.jpg)
 ### Mobile:
 ![Mobile 1](/screenshots/movil1.png)
 
