@@ -9,7 +9,7 @@ import particleConfig from "@/lib/particle-config"; // Importa la configuración
 
 // Cargar el componente Particles de manera dinámica para evitar el renderizado en el servidor
 const Particles = dynamic(() => import("@tsparticles/react").then(mod => mod.Particles), {
-  ssr: false // Desactiva el renderizado del lado del servidor para este componente
+  ssr: false// Desactiva el renderizado del lado del servidor para este componente
 });
 
 const ParticleBackground: React.FC = () => { // Define el componente funcional ParticleBackground
